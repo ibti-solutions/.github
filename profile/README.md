@@ -9,7 +9,7 @@
 
     We have been working with IT services for over 12 years, developing software and mobile applications for clients throughout Brazil. In recent years, we have engaged in an internationalization process and started to serve foreign customers, always with a view to the quality of the service provided.
 
-    [Click here to schedule a consultation with us](https://calendly.com/ibsolucoesemti/consulting)
+[Click here to schedule a consultation with us](https://calendly.com/ibsolucoesemti/consulting)
 
 **Some technologies we use:**  
 
