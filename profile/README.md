@@ -7,6 +7,10 @@
 
     Our goal is making projects a reality
 
+    We have been working with IT services for over 12 years, developing software and mobile applications for clients throughout Brazil. In recent years, we have engaged in an internationalization process and started to serve foreign customers, always with a view to the quality of the service provided.
+
+    [Click here to schedule a consultation with us](https://calendly.com/ibsolucoesemti/consulting)
+
 **Some technologies we use:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
